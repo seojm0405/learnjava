@@ -4,4 +4,8 @@
 
 [Chaper2](https://github.com/seojm0405/learnjava/tree/main/Chapter2) - 21/04/2022
 
-* 진법과 자료형
+* 진법과 자료형   
+
+[Chapter3](https://github.com/seojm0405/learnjava/tree/main/Chapter3) - 22/04/2022   
+* 연산자   
+
