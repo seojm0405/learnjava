@@ -16,4 +16,4 @@
 [Chapter5](https://github.com/seojm0405/learnjava/tree/main/Chapter5) - 24/04/2022   
 * 클래스 생성
 * 클래스 선언
-
+* 생성자 -26/04/2022
